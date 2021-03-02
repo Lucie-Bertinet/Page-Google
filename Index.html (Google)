@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Google</title>
+</head>
+<body>
+
+<div class="google-logo">
+  <img class="logo" src="THP-GOOGLE/image/logo-google.png" alt="logo Google">
+  
+</div>
+
+<div class="box">
+  <a href="" class="loupe">
+    <img src="THP-GOOGLE/image/logo-loupe.png" alt="logo loupe">
+  </a>
+
+  <input class="input-box" type="text" 
+  placeholder="Effectuez une recherche sur Google ou saisissez une URL">
+
+  <a href="" class="voix">
+    <img src="THP-GOOGLE/image/logo-voix.png" alt="logo micro Google">
+  </a>
+</div>
+
+<div class="button">
+  <input type="button" class="btn" value="Recherche Google">
+  <input type="button" class="btn" value="J'ai de la chance">
+</div>
+</body>
+</html>
